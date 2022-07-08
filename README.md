@@ -1,29 +1,9 @@
-[<img src="./SRC/imagens/desafio.png" alt="imagen escrito desafio html + css básico">
-
-# Descrição do Projeto
-    
-<p align= "center">
-    [<img src="./SRC/imagens/descrição do desafio.png" alt="uma breve descrição do exercico">]
-</p>
-<br>
-<p align= "center">
-    [<img src= "./SRC/imagens/desafio original.png" alt="uma tabela de moda com cabeçalho lilas e linhas cinza e uma tabela de casa com cabeçalho verde e linhas cinza">]
-</p>
-<p align= "center">
-Imagens de como deveria ficar as tabelas conforme o enunciado.
-</p>
-<br>
-<br>
-<br>
-
-
-<p align= "center">
-    [<img src= "./SRC/imagens/minhas tabelas.png" alt="uma tabela de moda com cabeçalho lilas e linhas cinza e uma tabela de casa com cabeçalho verde e linhas cinza">]
-</p>
-<p align= "center">Imagem de como ficou minhas tabelas
-</p>
+# Desafio DevQuest Html e Css Básico
 
 <br>
+
+## Descrição do Projeto
+ 
 <br>
 <br>
 
