@@ -1,6 +1,4 @@
-<p align= "center">
-    [<img src="./SRC/imagens/desafio.png" alt="imagen escrito desafio html + css básico">
-</p>
+[<img src="./SRC/imagens/desafio.png" alt="imagen escrito desafio html + css básico">
 
 # Descrição do Projeto
     
