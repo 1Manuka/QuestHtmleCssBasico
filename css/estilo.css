@@ -1,0 +1,66 @@
+.titulo-principal{
+    text-shadow: 0.2em 0.1em 0.07em #FFC42E;
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+.titulo-moda{
+    text-shadow: 0.2em 0.1em 0.07em #BB86FC;
+    margin: 19px 0px 5px 0px
+}
+
+.tabela-moda{
+    color: #ffffff;
+}
+
+.cabecalho-moda{
+    background-color: #BB86FC;
+}
+
+.valores-moda{
+    background-color: #424250;
+}
+
+.tabela-camiseta{
+    margin: 30px 0px 15px 10px;
+    width: 50%;
+    
+}
+.tabela-tenis{
+    margin: 30px 0px 15px 10px;
+    width: 50%;
+}
+
+.titulo-casa{
+    text-shadow: 0.2em 0.1em 0.07em #00C4B4 ;
+    margin: 19px 0px 5px 0px
+}
+
+#link{
+    color: #ffffff;
+}
+
+.tabela-casa{
+    color: #ffffff;
+}
+
+.cabecalho-casa{
+    background-color: #00C4B4;
+}
+
+.valores-casa{
+    background-color: #424250;
+}
+
+.imagem-sofa{
+    width: 50%;
+}
+
+.imagem-tv{
+    width: 50%;
+}
+
+
+
+
+
